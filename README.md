@@ -1,2 +1,1 @@
-# konkani_wordnet
-this repositoty is an api project that tries to develop an api for acessing konkani_wordnet
+# Dragon-s-World-Game-It is a game in which one dragon tries to save himself from the other dragon. It is developed using HTML, CSS ad Javascript. 
